@@ -28,4 +28,4 @@ git clone https://github.com/ggab13/apple.git
 ```sh
  cd apple
  ```
-3. - Open the index.html file in your web browser to play the game.
+3. - Open the index.html file in your web browser to visit the website.

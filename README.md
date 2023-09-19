@@ -7,8 +7,8 @@
 
 ## Description
 
-This is a simple project based on Apple's website. 
-The project was made for practicing HTML and CSS and Flexbox.
+This is a simple project for practicing CSS Flexbox based on Apple's website. 
+The project was made for practicing HTML, CSS and Flexbox.
 
 You can view the live demo of this project [--> Here <--](https://ggab13.github.io/apple/).
 
